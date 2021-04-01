@@ -1,3 +1,2 @@
-# nasz-projekt
-testowanie
+# nasz-projekt testowanie
 Przykładowy projekt
