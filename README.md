@@ -1,4 +1,5 @@
 # nasz-projekt 
 Przykładowy projekt
-# Informacje
+## Informacje
+* Dodatkowe informacje
 
